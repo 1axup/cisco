@@ -17,3 +17,9 @@ line console 0
 login local
 autocommand enable
 ```
+
+## Portfast BPDU Guard
+
+```
+spanning-tree portfast bpdu
+```
